@@ -1,4 +1,11 @@
 # Barbar Shop 
+
+## Demo 
+
+```
+https://abu-bakar-s.github.io/Barbar-shop/
+```
+
 ## Tools
 1.HTML  
 2.CSS  
