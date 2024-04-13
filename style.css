@@ -273,7 +273,7 @@ hr {
   }
 }
 /* testimonial */
-.testimonial {
+#testimonial {
   width: 100%;
   padding: 70px 0;
 }
@@ -325,7 +325,7 @@ hr {
 }
 
 /* footer */
-.footer {
+#footer {
   padding: 100px 0 20px;
   background: #e4dfdfb9;
   position: relative;
